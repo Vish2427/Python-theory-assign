@@ -1,2 +1,2 @@
-# Python theory-assign
+# Python -assign
 A1
